@@ -3,4 +3,4 @@ Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 Zubkov3 = "0a8d340e-018c-49ba-bba9-86fe7c63ac83"
 
 [sources]
-Zubkov3 = {path = ".."}
+Zubkov3 = {path = "/workspaces/JuliaProjects/Zubkov3"}

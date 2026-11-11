@@ -4,3 +4,6 @@ Zubkov3 = "0a8d340e-018c-49ba-bba9-86fe7c63ac83"
 
 [sources]
 Zubkov3 = {path = "/workspaces/JuliaProjects/Zubkov3"}
+
+[compat]
+Documenter = "1.20.0"
